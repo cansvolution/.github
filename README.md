@@ -1,4 +1,3 @@
-# .github
 # Welcome to Cansvolution GitHub!
 
 Welcome to the official GitHub organization for **Cansvolution**. We're glad to have you here! This is where we collaborate, manage our projects, and contribute to cutting-edge AI and machine learning solutions.
